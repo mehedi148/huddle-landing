@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+   
+.container1{
+    background-image: url(../huddle-landing/huddle-landing-page-with-alternating-feature-blocks-master/images/bg2-hero-desktop.png);
+    background-color: #92e4e7;
+  
+}
+
+.logo img{
+    margin: 30px;
+}
+.logo-btn{
+   float: right;
+   font-size: 15px;
+   border-radius: 20px;
+   padding: 10px;
+   width: 150px;
+   color: gray;
+   background-color: white;
+   border: none;
+   box-shadow:5px 5px 10px lightgray ;
+   margin: 30px;
+   
+}
+.logo-btn:hover{
+    background-color:#FF9BDB;
+    color: black;
+}
+.wrapper{
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+}
+.first-content{
+    width: 350px;
+    height: 100px;
+    margin: 100px;
+}
+.text-btn{
+    background-color:#FF9BDB;
+    border-radius: 20px;
+    padding: 10px;
+    width: 200px;
+    border: none;
+    box-shadow:5px 5px 10px lightblue ;   
+}
+.text-btn:hover{
+    color: black;
+    background-color:white;
+}        
+.mockups img{
+    width: 500px;
+    height: 400px;
+    margin: 80px 100px;
+}
+.container2{
+    display: flex;
+    margin-top: 50px;
+    box-shadow:5px 5px 10px lightgray ;
+}
+.second-content{
+    width: 450px;
+    height: 100px;
+    margin: 100px;
+    font-family:'Roboto', sans-serif ;
+    
+}
+.second-content h4{
+    color: gray;
+   
+}
+.grow-together img{
+    width: 500px;
+    height:100%;
+}
+.container3{
+    display: flex;
+    margin-top: 50px;
+    box-shadow:5px 5px 10px lightgray ;
+}
+.flowing img{
+    width: 500px;
+    height:100%;
+    margin-left: 100px;
+}
+.third-content{
+    width: 450px;
+    height: 100px;
+    margin: 100px;
+    font-family:'Roboto', sans-serif;
+}
+.third-content h4{
+    color: gray;
+}
+.container4{
+    display: flex;
+    margin-top: 50px;
+    box-shadow:5px 5px 10px lightgray ;
+}
+.fourth-content{
+    width: 450px;
+    height: 100px;
+    margin: 100px;
+    font-family:'Roboto', sans-serif ;
+ 
+}  
+.you-users img{
+    width: 500px;
+    height:100%;
+}
+.container5{
+    border: 2px solid rgb(240, 237, 237);
+    border-radius: 10px;
+    text-align: center;
+    width: 50%;
+    background-color: white;
+    padding: 30px;
+    margin-left: 300px;
+    position: absolute;
+    margin-top: 100px;  
+}
+    
+.container-btn{
+border-radius: 30px;
+padding: 15px 50px;
+background-color: #FF9BDB;
+color: white;
+border: none;
+box-shadow:5px 5px 10px lightgray ;  
+}
+.container-btn:hover{
+    background-color: aqua;
+    color: black;
+}
+.footer-header{
+    background-color: #00252E;
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+    margin-top: 230px;
+}
+.footer-logo img{
+    filter: brightness(0) invert(1);
+    margin: 40px 50px 0px;
+}
+.footer-text{
+    color: white;
+    margin-left: 50px;
+    display: flex;
+    font-family:'Roboto', sans-serif ;
+}
+.fa-map-marker{
+    width: 350px;
+    margin: 10px 0px;
+}
+.fa-phone{
+    margin: 20px 0px;
+}
+.list{
+    margin: 0px 80px;
+    list-style: none; 
+}
+.about{
+    margin: 10px 0px;
+}
+.what{
+    margin: 10px 0px;
+}
+.list2{
+    margin: 0px 100px;
+    list-style: none;  
+}
+.career{
+    margin: 10px 0px;
+}
+.blog{
+    margin: 10px 0px;
+}
+.icon2{
+    margin-top:10px;
+    margin-left: 90px;   
+}
+.fa-twitter:hover{
+    color:lightseagreen;
+}
+.icon2 p{
+    margin-top: 100px;
+}
